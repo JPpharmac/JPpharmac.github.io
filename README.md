@@ -116,7 +116,7 @@ body.cart-open .drawer{transform:none}
 
 <footer id="contact">
   <div class="wrap">
-    <p>Questions? Email <a href=JP>pharmc!proton.me>you@example.com</a></p>
+    <p>Questions? Email <a href=JP>pharmc!proton.me</a></p>
     <p>© <span id="year"></span> Your Shop</p>
   </div>
 </footer>
@@ -146,7 +146,7 @@ const PRODUCTS = [
   { id: "p3", name: "Product three", description: "Short description of this product.", price: 15 },
   { id: "p4", name: "Product four",  description: "Short description of this product.", price: 62 }
 ];
-const CURRENCY = "USD";
+const CURRENCY = "AUD";
 /* ===================================== */
 
 const money = n => new Intl.NumberFormat(undefined, { style: "currency", currency: CURRENCY }).format(n);
