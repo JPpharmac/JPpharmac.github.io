@@ -109,7 +109,7 @@ body.cart-open .drawer{transform:none}
   <section id="about" class="about">
     <div class="wrap">
       <h2>About</h2>
-      <p>Tell customers who you are, where the products come from, and how orders are shipped.</p>
+      <p>Welcome to JP pharma. We specialize in high-purity research peptides, sourced from trusted manufacturers and rigorously tested for consistency. Our mission is simple: provide you with laboratory-grade compounds delivered discreetly to your door. Whether you are conducting personal research or exploring new biological pathways, we ensure every batch meets strict purity standards. No middlemen, no hidden fees—just pure science, shipped directly.</p>
     </div>
   </section>
 </main>
