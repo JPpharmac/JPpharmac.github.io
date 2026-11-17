@@ -141,10 +141,10 @@ body.cart-open .drawer{transform:none}
    Later you can add an image (e.g. image: "img/mug.jpg")
    and a payment link (e.g. buyUrl: "https://buy.stripe.com/...") */
 const PRODUCTS = [
-  { id: "p1", name: "Product one",   description: "Short description of this product.", price: 24 },
-  { id: "p2", name: "Product two",   description: "Short description of this product.", price: 38 },
-  { id: "p3", name: "Product three", description: "Short description of this product.", price: 15 },
-  { id: "p4", name: "Product four",  description: "Short description of this product.", price: 62 }
+  { id: "p1", name: "retatrutide",   description: "Short description of this product.", price: 24 },
+  { id: "p2", name: "HGH",   description: "Short description of this product.", price: 38 },
+  { id: "p3", name: "MK-677", description: "Short description of this product.", price: 15 },
+  { id: "p4", name: "CJC+ipa(no dac) ",  description: "Short description of this product.", price: 62 }
 ];
 const CURRENCY = "AUD";
 /* ===================================== */
