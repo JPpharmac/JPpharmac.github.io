@@ -116,7 +116,7 @@ body.cart-open .drawer{transform:none}
 
 <footer id="contact">
   <div class="wrap">
-    <p>Questions? Email <a href="mailto:you@example.com">you@example.com</a></p>
+    <p>Questions? Email <a href=JP>pharmc!proton.me>you@example.com</a></p>
     <p>© <span id="year"></span> Your Shop</p>
   </div>
 </footer>
