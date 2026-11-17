@@ -116,7 +116,7 @@ body.cart-open .drawer{transform:none}
 
 <footer id="contact">
   <div class="wrap">
-    <p>Questions? Email <a href=>JPpharmc!proton.me</a></p>
+    <p>Questions? Email <a>JPpharmc!proton.me</a>/<p>
     <p>© <span id="year"></span> Your Shop</p>
   </div>
 </footer>
